@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/01/22/71/95/360_F_122719584_A863mvJEcEAnqmGQ4ky6RbXEhsHKw95x.jpg") ;
+    background-size: cover;
+}
+
+#title{ 
+color: white;
+
+}
+
+.log{
+    width: 350%;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    position: absolute;
+    color :white;
+    
+
+}
+.log-form h2{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+}
+
+.log-form p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+.log-form input{
+    font-size:16px ;
+    width: 100%;
+    padding: 15px 10px;
+    outline: none;
+    border-radius: 5px;
+}
